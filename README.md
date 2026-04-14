@@ -21,7 +21,7 @@ ___
 ---------
 
 <p align="center">
-<a href="https://github.com/MRSHABAN45/SHABAN-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=JavaScript&style=square&color=darkpink"></a> &nbsp;
+<a href="https://github.com/MRSHABAN45/SHABAN-MD"><img title="PUBLIC" src="https://img.shields.io/static/v1?label=Language&message=JavaScript&style=square&color=darkpink"></a> &nbsp;
   <img src="https://komarev.com/ghpvc/?username=SHABAN-MD&label=VIEWS&style=square&color=blue" />
 </p>
 
@@ -144,39 +144,8 @@ jobs:
 
 -------
 
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
-</p>
-
 
 > 🔔 Stay Connected For Updates Feature Drops And Tutorials!
-
-<a href="https://youtube.com/@mrshaban282?si=ZVANSbKM0yajAbl_" target="_blank">
-  <img src="Shaban/youtube.svg" alt="YouTube" width="250"/>
-</a>
-
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" alt="footer divider"/>
-</p>
-
-## ⚠️ _WARNING !_
-
-<div style="background-color: #000000; border-left: 5px solid #ff00ff; padding: 10px; border-radius: 0 15px 15px 0; box-shadow: 0 0 15px #ff00ff;">
-  <h3 style="color: #00ffff; font-family: 'Orbitron', sans-serif;">DISCLAIMER</h3>
-  <p style="color: #ffffff;">This Bot Is Not Affiliated With WhatsApp Inc. Use At Your Own Risk Misuse May Result In Account Bans</p>
-</div>
-
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%" alt="divider"/>
-</p>
-
-<!-- New Animated Contributors -->
-<div style="margin-top:20px">
-
-[![Contributors](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=500&lines=THANKS+TO+ALL+CONTRIBUTORS+%F0%9F%99%8F;SPECIAL+THANKS+TO+OUR+STAR+SUPPORTERS+%E2%AD%90)](https://github.com/MRSHABAN45/SHABAN-MD/graphs/contributors)
-
-</div>
 
  <p align="center"> <a href="https://github.com/MRSHABAN45/SHABAN-MD/stargazers"> <img src="http://reporoster.com/stars/dark/MRSHABAN45/SHABAN-MD" alt="Stargazers Repo Roster For @MRSHABAN45/SHABAN-MD"> </a> </p> <p align="center"> <a href="https://github.com/MRSHABAN45/SHABAN-MD/network/members"> <img src="http://reporoster.com/forks/dark/MRSHABAN45/SHABAN-MD" alt="Forkers Repo Roster For @MRSHABAN45/SHABAN-MD"> </a> </p> 
 
